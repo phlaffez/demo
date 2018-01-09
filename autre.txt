@@ -1,2 +1,3 @@
-Je n'ai rien compris à son truc VIM
-Je préfère sublime.txt, codelobster, voir même simplement notepad
+Je n'ai rien compris Ã  son truc VIM
+Je prÃ©fÃ¨re sublime.txt, codelobster, voir mÃªme simplement notepad
+On peut mÃªme modifier en ligne!!
